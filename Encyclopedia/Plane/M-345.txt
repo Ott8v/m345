@@ -1,0 +1,13 @@
+M-345
+
+
+
+
+Name: Aermacchi M-345
+Type: Training
+Crew: 2
+Lenght: 9.85 m
+Wing span: 8.47 m
+Height: 3.74 m
+Wing area: 12.6 m²
+Service ceiling: 12,190 m
