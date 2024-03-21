@@ -7,7 +7,7 @@ dirName = current_mod_path,
 fileMenuName = _("M-345"),
 
 version = "1.0.0",
-encyclopedia_path = current_mod_path .. 'Encyclopedia'
+encyclopedia_path = current_mod_path .. '/Encyclopedia'
 })
 
 plugin_done()
