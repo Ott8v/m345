@@ -7,6 +7,7 @@ dirName = current_mod_path,
 fileMenuName = _("M-345"),
 
 version = "1.0.0",
+state = "installed",
 encyclopedia_path = current_mod_path .. '/Encyclopedia'
 })
 
