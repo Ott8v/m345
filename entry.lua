@@ -15,6 +15,12 @@ encyclopedia_path = current_mod_path .. '/Encyclopedia',
 InputProfiles = {
     ["M-345"] = current_mod_path .. '/Input',
 },
+Skins = {
+    {
+        name = _("M-345"),
+        dir = "Skins/1"
+    },
+},
 Options = {
     {
         name = _("M-345"),
